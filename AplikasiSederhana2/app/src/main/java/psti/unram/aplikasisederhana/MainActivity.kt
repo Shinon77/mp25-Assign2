@@ -55,6 +55,6 @@ class MainActivity : AppCompatActivity() , View.OnClickListener {
                 result = a / b
             }
         }
-        resultTv.text = "Result is $result"
+        resultTv.text = "Result : $result"
     }
 }
